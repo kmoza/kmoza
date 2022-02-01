@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on HPC applications and GPU compilers benchmarking
-- 🌱 I’m currently learning HPC and other related techonlogies like CUDA, OpenMp etc
+- 🔭 C++ and Python
